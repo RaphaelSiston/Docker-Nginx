@@ -1,4 +1,5 @@
 💡 Projeto Docker-Nginx
+
 ✔ Executar um container do nginx com site do api cep (https://viacep.com.br/exemplo/jquery/)
 
 ✔Executar o container com docker run Com imagem do Nginx
